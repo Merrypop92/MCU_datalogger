@@ -1,0 +1,4 @@
+fp-info-cache
+MCU_datalogger-backups/*
+MCU_datalogger_gerber/*
+~MCU_datalogger.kicad_sch.lck
